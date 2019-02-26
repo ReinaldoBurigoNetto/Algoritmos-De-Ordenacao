@@ -1,3 +1,4 @@
+/* Reinaldo Búrigo Netto */
 
 	import java.util.Arrays;
 
@@ -13,6 +14,7 @@
 			
 			int tam = 8;
 			for (int i = 0; i < (tam - 1); i++) {
+				
 				int min = i;
 			 
 				for (int j = (i + 1); j < tam; j++) {
